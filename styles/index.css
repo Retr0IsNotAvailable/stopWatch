@@ -1,3 +1,17 @@
 body {
   background: #edeaff;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+img:hover {
+  opacity : 0.85;
+}
+
+img:active {
+  opacity: 0.7;
 }

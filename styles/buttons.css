@@ -1,0 +1,14 @@
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons img {
+  width: 3.12rem;
+  margin: 0 1.25rem;
+}
+
+.buttons img:nth-child(2) {
+  width: 5rem;
+}
